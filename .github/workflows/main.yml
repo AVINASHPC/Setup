@@ -6,7 +6,7 @@ on:
 on:
   pull:
     branches:
-    -main
+    - main
     
 jobs:
   test:
